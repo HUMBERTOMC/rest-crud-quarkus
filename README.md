@@ -1,4 +1,4 @@
-Quarkus REST CRUD Example
+Quarkus REST CRUD Example 
 ==================
 
 This example shows a simple REST-API with intern H2 Database access running with Quarkus.
